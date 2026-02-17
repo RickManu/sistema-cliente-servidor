@@ -1,11 +1,11 @@
-# 📦 Sistema Cliente-Servidor de Gestión de Productos
+#  Sistema Cliente-Servidor de Gestión de Productos
 
 Este proyecto corresponde a la **Actividad 2 – Desarrollo Producto 1 (Cliente-Servidor)**.  
 Implementa un sistema funcional con arquitectura cliente-servidor utilizando **Laravel** como framework principal.  
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 - Implementar un sistema cliente-servidor funcional.
 - Crear un módulo de autenticación (login y registro).
 - Conectar con una base de datos para persistencia.
@@ -14,7 +14,7 @@ Implementa un sistema funcional con arquitectura cliente-servidor utilizando **L
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 - **Backend (Servidor):** Laravel 11 (PHP 8+)
 - **Frontend (Cliente):** Blade + Bootstrap
 - **Base de datos:** MySQL / MariaDB
@@ -23,7 +23,7 @@ Implementa un sistema funcional con arquitectura cliente-servidor utilizando **L
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 1. **Autenticación de usuarios**
    - Registro de nuevos usuarios.
    - Inicio y cierre de sesión.
